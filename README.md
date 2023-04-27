@@ -30,8 +30,6 @@
     - Northern Hemisphere: Wind Speed vs. Latitude
     - Southern Hemisphere: Wind Speed vs. Latitude
 
-Additionally, included a brief analysis of each relationship pair.
-
 ## VacationPy Data Analysis
 
 ### Created a Python script in Jupyter Notebooks to plan future vacations (*wow!*) using the geoViews Python library, and the Geoapify API. Created map visualizations, and included the following:
